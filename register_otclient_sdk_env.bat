@@ -1,1 +1,2 @@
-setx OTCLIENTSDKDir %CD%
+setx OTCLIENTSDKDir "%CD%"
+pause
